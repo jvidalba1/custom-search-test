@@ -1,6 +1,7 @@
 class SearchsController < ApplicationController
   def search
-    result = Wrappers::Search.new(search_params).execute
+    items = SearchWrapper.new(search_params).execute
+    prepare_response(items)
   end
 
   private
