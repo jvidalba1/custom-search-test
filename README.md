@@ -1,24 +1,40 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Steps for setting project
 
-Things you may want to cover:
+1. Clone repository
+2. `bundle install` over main directory
+3. Set env variables in `.env` file in the main folder
 
-* Ruby version
+```
+GOOGLE_API_URL=
+GOOGLE_API_KEY=
+GOOGLE_API_CX=
+BING_API_URL=
+BING_API_KEY=
+```
 
-* System dependencies
+4. Run server: `bundle exec rails server`
 
-* Configuration
+### Making requests
 
-* Database creation
+```
+GET /search
+Body:
+{
+  "search": {
+    "engine": "<google, bing or both>",
+    "text": "text for searching"
+  }
+}
+```
 
-* Database initialization
+### Unit tests
 
-* How to run the test suite
+Run in the console over the main directory `rspec`
 
-* Services (job queues, cache servers, search engines, etc.)
+### To Improve
 
-* Deployment instructions
-
-* ...
+- Unit Tests
+- Cache strategy
+- Background jobs

@@ -1,0 +1,396 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - medellin",
+        "totalResults": "582000",
+        "searchTerms": "medellin",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "35032764544b3ebca"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - medellin",
+        "totalResults": "582000",
+        "searchTerms": "medellin",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "35032764544b3ebca"
+      }
+    ]
+  },
+  "context": { "title": "Google" },
+  "searchInformation": {
+    "searchTime": 0.393894,
+    "formattedSearchTime": "0.39",
+    "totalResults": "582000",
+    "formattedTotalResults": "582,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Medellin, Medellin, An, co - Google Maps",
+      "htmlTitle": "<b>Medellin</b>, <b>Medellin</b>, An, co - Google Maps",
+      "link": "https://www.google.com/maps/search/?api=1&query=Medellin%2C+Medellin%2C+An%2C+co&query_place_id=ChIJ291STu8oRI4RcqxwksPWL3I",
+      "displayLink": "www.google.com",
+      "snippet": "Medellin, Medellin, An, co. Your location. Trails. Dedicated lanes. Bicycle-friendly \nroads. Dirt/unpaved trails. Live traffic. Fast. Slow. 2000 km. Set depart & arrive ...",
+      "htmlSnippet": "<b>Medellin</b>, <b>Medellin</b>, An, co. Your location. Trails. Dedicated lanes. Bicycle-friendly <br>\nroads. Dirt/unpaved trails. Live traffic. Fast. Slow. 2000 km. Set depart &amp; arrive&nbsp;...",
+      "cacheId": "qZbEKahuWlsJ",
+      "formattedUrl": "https://www.google.com/.../search/?...Medellin%2C+Medellin%2C...",
+      "htmlFormattedUrl": "https://www.google.com/.../search/?...<b>Medellin</b>%2C+<b>Medellin</b>%2C...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs",
+            "width": "204",
+            "height": "247"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "twitter:card": "summary",
+            "theme-color": "#3367d6",
+            "viewport": "initial-scale=1.0, user-scalable=no",
+            "google": "notranslate"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Medellin Flower Festival 2011",
+      "htmlTitle": "<b>Medellin</b> Flower Festival 2011",
+      "link": "https://www.google.com/doodles/medellin-flower-festival-2011",
+      "displayLink": "www.google.com",
+      "snippet": "Medellin Flower Festival 2011. July 29, 2011. This Doodle's Reach. This day in \nhistory. National Thai Language Day · Celebrating Chiune Sugihara.",
+      "htmlSnippet": "<b>Medellin</b> Flower Festival 2011. July 29, 2011. This Doodle&#39;s Reach. This day in <br>\nhistory. National Thai Language Day &middot; Celebrating Chiune Sugihara.",
+      "formattedUrl": "https://www.google.com/doodles/medellin-flower-festival-2011",
+      "htmlFormattedUrl": "https://www.google.com/doodles/<b>medellin</b>-flower-festival-2011",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQScbNCK-MJ8R2RvqjFYcGplmRx2XATmJ-n3QWolkaxci-cTOUE_Wx5_AuH",
+            "width": "360",
+            "height": "140"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.google.com/logos/2011/medellin11-hp.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Medellin Flower Festival 2011",
+            "og:image:width": "372",
+            "og:type": "website",
+            "twitter:site": "@GoogleDoodles",
+            "viewport": "width=device-width",
+            "twitter:description": "Medellin Flower Festival 2011 #GoogleDoodle",
+            "og:title": "Medellin Flower Festival 2011",
+            "og:image:height": "145",
+            "og:description": "Medellin Flower Festival 2011 #GoogleDoodle",
+            "twitter:image": "http://www.google.com/logos/2011/medellin11-hp.jpg"
+          }
+        ],
+        "cse_image": [
+          { "src": "http://www.google.com/logos/2011/medellin11-hp.jpg" }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Flights",
+      "htmlTitle": "Flights",
+      "link": "https://www.google.com/flights/flights-from-warsaw-to-medell%C3%ADn.html",
+      "displayLink": "www.google.com",
+      "snippet": "Round tripEconomy1 adult. Round trip. Round trip One way Multi-city. 1. Warsaw. \nMedellín. Wed, Oct 21. Sun, Oct 25. Stops. Airlines. Bags. Class. Price. Times.",
+      "htmlSnippet": "Round tripEconomy1 adult. Round trip. Round trip One way Multi-city. 1. Warsaw. <br>\n<b>Medellín</b>. Wed, Oct 21. Sun, Oct 25. Stops. Airlines. Bags. Class. Price. Times.",
+      "cacheId": "sg5-SwHZ7QsJ",
+      "formattedUrl": "https://www.google.com/flights/flights-from-warsaw-to-medellín.html",
+      "htmlFormattedUrl": "https://www.google.com/flights/flights-from-warsaw-to-<b>medellín</b>.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRodTQ7tGEW_4bdy5cOkZ4mTo-GUFOos2LahMW_1gliLlIfTHbJpuDyBeK7",
+            "width": "360",
+            "height": "128"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+            "google": "notranslate",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.gstatic.com/flights/app/illustration-flights-mobile.svg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Flights",
+      "htmlTitle": "Flights",
+      "link": "https://www.google.com/flights/flights-from-miami-to-medell%C3%ADn.html",
+      "displayLink": "www.google.com",
+      "snippet": "Medellín. Tue, Oct 20. Sat, Oct 24. Stops. Airlines. Bags. Class. Price. Times. \nDuration. More. Any number of stops; Nonstop only; 1 stop or fewer; 2 stops or \nfewer.",
+      "htmlSnippet": "<b>Medellín</b>. Tue, Oct 20. Sat, Oct 24. Stops. Airlines. Bags. Class. Price. Times. <br>\nDuration. More. Any number of stops; Nonstop only; 1 stop or fewer; 2 stops or <br>\nfewer.",
+      "cacheId": "UgvfSIhMMcgJ",
+      "formattedUrl": "https://www.google.com/flights/flights-from-miami-to-medellín.html",
+      "htmlFormattedUrl": "https://www.google.com/flights/flights-from-miami-to-<b>medellín</b>.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRodTQ7tGEW_4bdy5cOkZ4mTo-GUFOos2LahMW_1gliLlIfTHbJpuDyBeK7",
+            "width": "360",
+            "height": "128"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+            "google": "notranslate",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.gstatic.com/flights/app/illustration-flights-mobile.svg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Flights",
+      "htmlTitle": "Flights",
+      "link": "https://www.google.com/flights/flights-from-barcelona-to-medell%C3%ADn.html",
+      "displayLink": "www.google.com",
+      "snippet": "Medellín. Mon, Nov 2. Fri, Nov 6. Stops. Airlines. Bags. Class. Price. Times. \nDuration. More. Any number of stops; Nonstop only; 1 stop or fewer; 2 stops or \nfewer.",
+      "htmlSnippet": "<b>Medellín</b>. Mon, Nov 2. Fri, Nov 6. Stops. Airlines. Bags. Class. Price. Times. <br>\nDuration. More. Any number of stops; Nonstop only; 1 stop or fewer; 2 stops or <br>\nfewer.",
+      "cacheId": "_ueDTQz9F8EJ",
+      "formattedUrl": "https://www.google.com/flights/flights-from-barcelona-to-medellín.html",
+      "htmlFormattedUrl": "https://www.google.com/flights/flights-from-barcelona-to-<b>medellín</b>.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRodTQ7tGEW_4bdy5cOkZ4mTo-GUFOos2LahMW_1gliLlIfTHbJpuDyBeK7",
+            "width": "360",
+            "height": "128"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+            "google": "notranslate",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.gstatic.com/flights/app/illustration-flights-mobile.svg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Restaurante Medellin, Plato, Magdalena - Google Maps",
+      "htmlTitle": "Restaurante <b>Medellin</b>, Plato, Magdalena - Google Maps",
+      "link": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Medellin%2C%20Plato%2C%20Magdalena&query_place_id=ChIJR2zP0Z0wX44RRL06mSNV1vU",
+      "displayLink": "www.google.com",
+      "snippet": "Restaurante Medellin, Plato, Magdalena. Your location. Trails. Dedicated lanes. \nBicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow. 2000 km.",
+      "htmlSnippet": "Restaurante <b>Medellin</b>, Plato, Magdalena. Your location. Trails. Dedicated lanes. <br>\nBicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow. 2000 km.",
+      "cacheId": "jIgShZfkXUYJ",
+      "formattedUrl": "https://www.google.com/.../search/?... Restaurante%20Medellin%2C%20Plato%2C%20Magdalena...",
+      "htmlFormattedUrl": "https://www.google.com/.../search/?... Restaurante%20<b>Medellin</b>%2C%20Plato%2C%20Magdalena...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs",
+            "width": "204",
+            "height": "247"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "twitter:card": "summary",
+            "theme-color": "#3367d6",
+            "viewport": "initial-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "google": "notranslate"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cra. 35 #7-60, Medellin, Antioquia, Colombia - Google Maps",
+      "htmlTitle": "Cra. 35 #7-60, <b>Medellin</b>, Antioquia, Colombia - Google Maps",
+      "link": "https://www.google.com/maps/search/?api=1&query=Cra.+35+%237-60%2C+Cra.+35+%237-60%2C+Medell%C3%ADn%2C+An%2C+050021%2C+co&query_place_id=EixDcmEuIDM1ICM3LTYwLCBNZWRlbGxpbiwgQW50aW9xdWlhLCBDb2xvbWJpYQ",
+      "displayLink": "www.google.com",
+      "snippet": "35 #7-60, Medellin, Antioquia, Colombia. Your location. Trails. Dedicated lanes. \nBicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow. 1000 km.",
+      "htmlSnippet": "35 #7-60, <b>Medellin</b>, Antioquia, Colombia. Your location. Trails. Dedicated lanes. <br>\nBicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow. 1000 km.",
+      "cacheId": "zg59aPRSqE4J",
+      "formattedUrl": "https://www.google.com/.../search/?api...Medellín%2C...",
+      "htmlFormattedUrl": "https://www.google.com/.../search/?api...<b>Medellín</b>%2C...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs",
+            "width": "204",
+            "height": "247"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "twitter:card": "summary",
+            "theme-color": "#3367D6",
+            "viewport": "initial-scale=1.0, user-scalable=no",
+            "google": "notranslate"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cra. 65CC #31-34, 31-34 Carrera 65CC, Medellín, Antioquia ...",
+      "htmlTitle": "Cra. 65CC #31-34, 31-34 Carrera 65CC, <b>Medellín</b>, Antioquia ...",
+      "link": "https://www.google.com/maps/search/?api=1&query=Cra.%2065CC%20%2331-34%2C%2031-34%20Carrera%2065CC%2C%20Medell%C3%ADn%2C%20Antioquia&query_place_id=ChIJXRREvLApRI4RhC03gaym62U",
+      "displayLink": "www.google.com",
+      "snippet": "65CC #31-34, 31-34 Carrera 65CC, Medellín, Antioquia. Your location. Trails. \nDedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow\n.",
+      "htmlSnippet": "65CC #31-34, 31-34 Carrera 65CC, <b>Medellín</b>, Antioquia. Your location. Trails. <br>\nDedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow<br>\n.",
+      "cacheId": "8XpAy5pA3hcJ",
+      "formattedUrl": "https://www.google.com/.../search/?... 34%20Carrera%2065CC%2C%20Medellín%2C%20Antioquia...",
+      "htmlFormattedUrl": "https://www.google.com/.../search/?... 34%20Carrera%2065CC%2C%20<b>Medellín</b>%2C%20Antioquia...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs",
+            "width": "204",
+            "height": "247"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "twitter:card": "summary",
+            "theme-color": "#3367d6",
+            "viewport": "initial-scale=1.0, user-scalable=no",
+            "google": "notranslate"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Envy Roof Top, Cl. 9a ##37-16, Medellín, 050021, co - Google Maps",
+      "htmlTitle": "Envy Roof Top, Cl. 9a ##37-16, <b>Medellín</b>, 050021, co - Google Maps",
+      "link": "https://www.google.com/maps/search/?api=1&query=Envy+Roof+Top%2C+Cl.+9a+%23%2337-16%2C+Medell%C3%ADn%2C+050021%2C+co&query_place_id=ChIJz33pvSkoRI4Rp3jsj_c-VNw",
+      "displayLink": "www.google.com",
+      "snippet": "Envy Roof Top, Cl. 9a ##37-16, Medellín, 050021, co. Your location. Trails. \nDedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow\n.",
+      "htmlSnippet": "Envy Roof Top, Cl. 9a ##37-16, <b>Medellín</b>, 050021, co. Your location. Trails. <br>\nDedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow<br>\n.",
+      "cacheId": "xKEjdtiozYwJ",
+      "formattedUrl": "https://www.google.com/maps/search/?...Medellín%2C...",
+      "htmlFormattedUrl": "https://www.google.com/maps/search/?...<b>Medellín</b>%2C...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs",
+            "width": "204",
+            "height": "247"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "twitter:card": "summary",
+            "theme-color": "#3367D6",
+            "viewport": "initial-scale=1.0, user-scalable=no",
+            "google": "notranslate"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "RESTAURANTE MOLCAJETE, 3921 Cq. 74A, Medellín, Antioquia ...",
+      "htmlTitle": "RESTAURANTE MOLCAJETE, 3921 Cq. 74A, <b>Medellín</b>, Antioquia ...",
+      "link": "https://www.google.com/maps/search/?api=1&query=RESTAURANTE%20MOLCAJETE%2C%203921%20Cq.%2074A%2C%20Medell%C3%ADn%2C%20Antioquia&query_place_id=ChIJOcHI7KEpRI4RpbEi9DVHGNM",
+      "displayLink": "www.google.com",
+      "snippet": "74A, Medellín, Antioquia. Connect to internet to see place info. Directions.",
+      "htmlSnippet": "74A, <b>Medellín</b>, Antioquia. Connect to internet to see place info. Directions.",
+      "cacheId": "WT3A-8aGBTIJ",
+      "formattedUrl": "https://www.google.com/.../search/?... %2074A%2C%20Medellín%2C%20Antioquia...",
+      "htmlFormattedUrl": "https://www.google.com/.../search/?... %2074A%2C%20<b>Medellín</b>%2C%20Antioquia...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs",
+            "width": "204",
+            "height": "247"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "twitter:card": "summary",
+            "theme-color": "#3367d6",
+            "viewport": "initial-scale=1.0, user-scalable=no",
+            "google": "notranslate"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+          }
+        ]
+      }
+    }
+  ]
+}
